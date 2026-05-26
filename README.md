@@ -109,9 +109,7 @@ streamlit run Proyect.py
 ## Team Members
 
 - José Miguel Carmona González
-- Add team member 2
-- Add team member 3
-- Add team member 4
+- Camilo Martinez
 
 ## Course Information
 
